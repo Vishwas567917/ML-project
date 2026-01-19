@@ -42,9 +42,14 @@ area,bedrooms,bathrooms,price
 - Model evaluation metrics (MSE, R-squared)
 - Model coefficients
 - Example prediction for a new house
+<img width="766" height="722" alt="Screenshot 2026-01-19 123500" src="https://github.com/user-attachments/assets/e53183d3-e194-4204-bf8a-35c7e41bbd83" />
+<img width="1301" height="601" alt="Screenshot 2026-01-19 123554" src="https://github.com/user-attachments/assets/be3a91aa-ddc6-4448-8e39-7d34bb953b45" />
+<img width="1080" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/062e99df-d55f-4bc0-8972-ff41f3dc8ed9" />
+
 
 ## Troubleshooting
 
 - If you encounter import errors, ensure all packages are installed.
 - If plots don't display, ensure matplotlib backend is configured (e.g., in Jupyter or with plt.show()).
+
 - Adjust feature selection threshold or add more features as needed for your dataset.
